@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🛠️ Mostly backend, but I can do frontend too!
+- 🛠️ Mostly working on backend, but sometimes frontend too!
 - 🚀 Experienced with Python, JavaScript, Linux
 - ⚡ FastAPI, ExpressJS, and ReactJS are my tools of choice
 
