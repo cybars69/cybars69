@@ -78,15 +78,7 @@ My focus is on:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cybars69&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117"/>
-
-<br/>
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=cybars69&theme=dark" alt="GitHub Streak" /></a>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybars69&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117"/>
 
 </div>
 
@@ -96,16 +88,8 @@ My focus is on:
 
 * Scalable backend systems (FastAPI, Django, Node)
 * AI-powered applications
-* Real-time systems (WebSockets, MQTT)
+* Real-time systems (WebSockets, RabbitMQ)
 * Full-stack platforms (Next.js + React Native)
-
----
-
-## Philosophy
-
-* Keep systems **simple, observable, and scalable**
-* Avoid overengineering, but never underbuild
-* Ship fast, iterate faster
 
 ---
 
