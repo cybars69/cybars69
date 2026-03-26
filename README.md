@@ -68,7 +68,6 @@ My focus is on:
 ### Realtime & Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=websocket"/>
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square"/>
 </p>
