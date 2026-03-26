@@ -82,7 +82,7 @@ My focus is on:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cybars69&hide_border=true&background=0d1117&stroke=0000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=cybars69&theme=dark" alt="GitHub Streak" /></a>
 
 <br/>
 
