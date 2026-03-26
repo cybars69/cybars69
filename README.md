@@ -80,9 +80,9 @@ My focus is on:
 
 <img src="https://github-readme-stats-sync.vercel.app/api?username=cybars69&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117"/>
 
-<br/>
+<!-- <br/>
 
-<img src="https://github-readme-stats-sync.vercel.app/api/top-langs/?username=cybars69&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117"/>
+<img src="https://github-readme-stats-sync.vercel.app/api/top-langs/?username=cybars69&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117"/> -->
 
 <br/>
 
