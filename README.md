@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://linkedin.com/in/arsalan-a-sheikh" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <br/><br/>
@@ -47,11 +47,10 @@ My focus is on:
 ### State & UI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui"/>
   <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square"/>
   <img src="https://img.shields.io/badge/Mantine-339AF0?style=flat-square"/>
   <img src="https://img.shields.io/badge/Gluestack-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MUI-000000?style=flat-square"/>
 </p>
 
 ### DevOps & Infrastructure
@@ -63,14 +62,13 @@ My focus is on:
 ### Databases & Messaging
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq"/>
 </p>
 
 ### Realtime & Systems
 
 <p>
-  <img src="https://img.shields.io/badge/WebSockets-000000?style=flat-square"/>
+  <img src="https://skillicons.dev/icons?i=websocket"/>
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square"/>
 </p>
