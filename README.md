@@ -78,7 +78,7 @@ My focus is on:
 
 <div align="center">
 
-<img src="https://github-readme-stats-sync.vercel.app/api?username=cybars69&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117"/>
+<img src="https://github-readme-stats-sync.vercel.app/api?username=cybars69&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1118"/>
 
 <!-- <br/>
 
@@ -86,7 +86,7 @@ My focus is on:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=cybars69&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=cybars69&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1da"/>
 
 </div>
 
