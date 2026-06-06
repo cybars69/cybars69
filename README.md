@@ -72,23 +72,19 @@ My focus is on:
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square"/>
 </p>
 
----
+<!-- <div align="center"> -->
 
-## GitHub Stats
+<!-- <img src="https://github-readme-stats-sync.vercel.app/api?username=cybars69&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1118"/> -->
 
-<div align="center">
+<!-- <br/> -->
 
-<img src="https://github-readme-stats-sync.vercel.app/api?username=cybars69&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1118"/>
+<!-- <img src= "https://github-readme-stats-sync.vercel.app/api/top-langs/?username=cybars69&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117"/> -->
 
-<!-- <br/>
+<!-- <br/> -->
 
-<img src= "https://github-readme-stats-sync.vercel.app/api/top-langs/?username=cybars69&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117"/> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=cybars69&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1da"/> -->
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=cybars69&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1da"/>
-
-</div>
+<!-- </div> -->
 
 ---
 
